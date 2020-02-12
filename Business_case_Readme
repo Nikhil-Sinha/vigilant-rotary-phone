@@ -1,0 +1,8 @@
+The above algorithm was written when I was doing my ML Course. 
+
+In this problem we had to study our customers and analyse the points which can be targetted to improve our business.
+1. We are given data from an audiobook app. Each customer has purchased a book or two from our app, thats the basic 
+   conditon to be included.
+2. We are to create a ML algorithm to predict if a customer will buy again from the audiobook company. The main idea is 
+that the company should not spend their budget on targetting customers who are not likely to buy again.
+3. Thus, we create this algorithm to better our business.
