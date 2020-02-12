@@ -1,3 +1,5 @@
+MNIST Udemy Project 
+
 ## Import Relevant Libraries
 
 
