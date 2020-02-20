@@ -1,0 +1,16 @@
+Market Segmentation using Cluster Analysis.
+
+In this dataset, we have data about a retail shop. There are 30 observations. Each of these observations are clients.
+
+We have a score for each client based on their Satisfaction and Brand Loyalty.
+
+"Satisfaction" was self-reported within a range of 1-10, with '10' being "Very Satisfied"
+      Type of Data : Discrete, int values
+      Range : 1,2,3,4,5,6,7,8,9,10
+"Brand Loyalty" there is no widely accecpted technique to measure it but there are proxies like churn rate, retention rate or 
+customer lifetime value (CLV)
+       Loyalty = # purchases for 1year + other factors.
+       Type of Data : Continuous
+       Range  : (-2.5 to 2.5)
+       
+We have done this project to improve a business and help the marketing group to target clients more effectively.
