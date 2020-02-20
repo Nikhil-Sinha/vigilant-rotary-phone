@@ -1,0 +1,20 @@
+The Dogs vs. Cats dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat.
+
+Although the problem sounds simple, it was only effectively addressed in the last few years using deep learning convolutional neural
+networks. 
+
+While the dataset is effectively solved, it can be used as the basis for learning and practicing how to develop, evaluate, and use 
+convolutional deep learning neural networks for image classification from scratch.
+
+After completing this tutorial, i have learnt the following :
+
+  1. How to load and prepare photos of dogs and cats for modeling.
+  2. How to develop a convolutional neural network for photo classification from scratch and improve model performance.
+  3. How to develop a model for photo classification using transfer learning.
+  
+  Provided below is the link which was used as a reference and also provided is the link to the dataset used.
+  
+  Reference Link : https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/
+  Dataset Link  : https://www.kaggle.com/c/dogs-vs-cats/data
+  
+  An Accuracy of 89.87% was achieved.
