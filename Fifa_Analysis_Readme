@@ -1,0 +1,9 @@
+Once in every 4 years, the world celebrates a festival called “Fifa World Cup” and with that, everything seems to change. 
+
+I am going to predict the “World’s Best Playing XI” in 2018 and I would be using Python for the analytical implementation.
+
+In my quest to carry out the above mentioned task, I stumbled upon an interesting dataset on Kaggle. 
+
+Based on player availability, the best possible lineup is a 4-3-3. Using this dataset, I would be giving you a step by step approach to analyze various characteristics that would help us infer the best players for the World Cup 2018.
+
+Dataset link : https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global/data
