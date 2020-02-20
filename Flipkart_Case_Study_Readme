@@ -1,0 +1,13 @@
+Flipkart Case Study
+
+In this project, we are going scrape Flipkart website to extract the Price, Name, and Rating of Apple iPhones. This project added value 
+to the knowledge gained.
+The URL for this page : https://www.flipkart.com/search?q=iphone&sid=tyy%2C4io&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_0_2_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_0_2_na_na_na&as-pos=0&as-type=RECENT&suggestionId=iphone%7CMobiles&requestId=a04a06db-f893-4733-a12f-c1c379dfa0fb&as-backfill=on
+ 
+ Steps involved :
+      Step 1: Find the URL that you want to scrape
+      Step 2: Inspecting the Page
+      Step 3: Find the data you want to extract
+      Step 4: Write the code
+      Step 5: Run the code and extract the data
+      Step 6: Store the data in a required format
